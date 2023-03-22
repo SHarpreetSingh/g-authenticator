@@ -3,10 +3,6 @@ build
 logs
 .vscode
 .env
-keys
 docs
-fcm-credentials.json
-ms-discovery.json,
 .husky/_
-google-service-account-key.json
 run-identifier.txt
